@@ -27,7 +27,7 @@
 		<app.runtime>4.4.0-20211227</app.runtime>
 		<mule.maven.plugin.version>3.5.2</mule.maven.plugin.version>
 		
-		<api.groupId>ca6c543e-dbac-46c9-aaa5-59cfe1113e50</api.groupId>
+		<api.groupId>8521b161-742f-46d4-a28e-2360f0b32415</api.groupId>
 		<api.artifactId>todo-p-api</api.artifactId>
 		<api.version>1.0.0</api.version>
 		<env.property>gowri-parent-pom</env.property>
